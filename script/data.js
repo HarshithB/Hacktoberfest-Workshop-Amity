@@ -34,7 +34,6 @@ const data = `[{
 		"desc": "Software Engineer",
 		"github": "https://github.com/HarshithB"
 	},
-	https://github.com/HarshithB
 	{
   		"name": "Abita Ann Augustine",
   		"desc": "Software Developer and Microsoft Azure Machine Learning Scholarship Winner",
